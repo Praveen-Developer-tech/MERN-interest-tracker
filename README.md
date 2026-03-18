@@ -1,4 +1,4 @@
-# 💰 MERN Interest Tracker
+# 💰InterestX – Smart Finance Tracker
 
 A full-stack web application to calculate interest and manage multiple user accounts efficiently. This app allows users to track financial data, perform interest calculations, and manage transactions in a structured way.
 
